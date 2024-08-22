@@ -2,7 +2,7 @@
 
 ## Overview
 A simple web application that translates text from one language to another using a MongoDB database. This was built using the [Google Translate API](https://rapidapi.com/googlecloud/api/google-translate1).
-Try it for yourself at https://translationmachine.onrender.com/
+Try it for yourself at https://translationmachine.onrender.com/ (may take a while to load).
 
 ## Requirements
 - Node.js
