@@ -37,7 +37,7 @@ const options = {
 
 ## Running the Application
 1. Start the server: `node app.js`
-2. Open a web browser and navigate to `http://localhost:3000`
+2. Open a web browser and navigate to `http://localhost:5000`
 
 ## Usage
 - Select a language from the dropdown menus to specify the input and output.
