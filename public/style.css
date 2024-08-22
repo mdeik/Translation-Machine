@@ -1,0 +1,12 @@
+html {
+     background-color: antiquewhite;
+     font-size: 24px;
+}
+select,input {
+     height: 1rem;
+     margin-right: .3rem;
+}
+
+#translation-count {
+     color: red;
+}
