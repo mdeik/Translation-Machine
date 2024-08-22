@@ -20,7 +20,7 @@ MONGO_DB_NAME = "your-mongodb-database-name"
 MONGO_COLLECTION = "translations"
 MONGO_CONNECTION_STRING = "your-mongodb-connection-string"
 ```
-4. Update the options in the `translationMachine.ejs` file in the root directory and add you `X-RapidAPI-Key` for Google Translate.
+4. Update the options in the `translationMachine.ejs` file in the root directory and add you `X-RapidAPI-Key` for Google Translate. You can obtain this at https://rapidapi.com/googlecloud/api/google-translate1
 ```
 const options = {
   method: 'POST',
